@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="G1x4qgJvzsbgp9vHvG0m">
+    <mxGraphModel dx="730" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="poDeQ7BXOC06peMC8mhH-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;glass=0;fillColor=light-dark(#FFFFFF,#4986CC);" value="User&lt;div&gt;Interacts through the terminal&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-2" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="340" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-3" edge="1" parent="1" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="420" y="150" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#7FFFAA);fontColor=light-dark(#000000,#0D0D0D);" value="&lt;b&gt;Main.java&lt;/b&gt;&lt;div&gt;&lt;b&gt;displays the menu gets user input and calls the functions&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="280" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#FF6666);" value="Workout manager&lt;div&gt;logs the workout&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="100" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#FFB366);" value="History&amp;nbsp;&lt;div&gt;allows the veiwer to see workout history&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#CCCC00);" value="Calcualtions&lt;div&gt;estimates calories burned&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="410" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=light-dark(#FFFFFF,#3333FF);fontSize=10;" value="file manager&amp;nbsp;&lt;div&gt;saves the workouts to a file and loads them when the user wants&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-11" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="380" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-12" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="110" y="390" as="sourcePoint" />
+            <mxPoint x="650" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="390" as="sourcePoint" />
+            <mxPoint x="630" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="469.5" y="390" as="sourcePoint" />
+            <mxPoint x="469.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-18" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="320" y="390" as="sourcePoint" />
+            <mxPoint x="320" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="poDeQ7BXOC06peMC8mhH-19" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;curved=1;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="159.5" y="390" as="sourcePoint" />
+            <mxPoint x="159.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
