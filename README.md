@@ -1,0 +1,3 @@
+# Pulse – Java Fitness Tracker
+
+Pulse is a fitness tracker I'm building in Java that runs through the terminal. The goal is to make it easy for users to log workouts, calculate calories burned, and keep track of their activity. For the first version, I plan to include workout logging, calorie calculations, workout history, and basic activity summaries. In the future, I want to add features like weekly fitness goals, favorite exercises, and progress tracking. I'll be using Java with built-in libraries like Scanner and ArrayList, along with VS Code, Git, and GitHub to build and manage the project.
